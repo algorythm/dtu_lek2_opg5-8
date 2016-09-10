@@ -55,3 +55,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+.idea/compiler.xml
+.idea/misc.xml
+.idea/copyright/profiles_settings.xml
+.idea/modules.xml
+dtu_lek2_opg5-8.iml
