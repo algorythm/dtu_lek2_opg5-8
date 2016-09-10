@@ -1,1 +1,3 @@
-# dtu_lek2_opg5-8
+# Opgave2 fil fra anden lektion
+
+Her er opgave 5-8 i den fil der hedder "Opgave 2" fra Google Drive\Lektion 2.
